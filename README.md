@@ -43,7 +43,3 @@ Projects involving image processing and computer vision fundamentals.
 
 ---
 
-# Contact Information
-
-* GitHub: https://github.com/YOUR_USERNAME
-* Email: [your-email@example.com](mailto:your-email@example.com)
